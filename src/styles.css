@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,body,#root { height: 100%; }
+
+::-webkit-scrollbar{height:8px;width:8px}
+::-webkit-scrollbar-thumb{background:rgba(148,163,184,0.6);border-radius:999px}
+::-webkit-scrollbar-track{background:transparent}
+
+input[type=range]{accent-color:#f97316;}
