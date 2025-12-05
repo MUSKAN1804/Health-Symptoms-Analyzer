@@ -48,9 +48,6 @@ npm install
 npm run dev
 
 
-Open the printed URL (usually):
-👉 http://localhost:5173
-
 🌐 Live Demo
 
 🔗 Live Preview: https://healthsymptomanalyzer.netlify.app
